@@ -11692,7 +11692,7 @@ body {
 }
 
 .wrapper {
-  padding: 1.5rem 0;
+  padding: 0 0;
 }
 
 #wrapper-hero {
@@ -15411,3 +15411,7 @@ figure.woocommerce-product-gallery__wrapper {
 }
 
 /*# sourceMappingURL=theme.css.map */
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
