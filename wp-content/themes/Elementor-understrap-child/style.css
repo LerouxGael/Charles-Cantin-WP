@@ -15,3 +15,7 @@
 .wrapper {
 	padding: 0 0;
 }
+body{
+overflow: unset;
+/* min-height: 100%; */
+}

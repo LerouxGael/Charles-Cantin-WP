@@ -15412,6 +15412,23 @@ figure.woocommerce-product-gallery__wrapper {
 
 /*# sourceMappingURL=theme.css.map */
 
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   -webkit-appearance: none;
+} */
+
+/* Hide Title Page*/
+.entry-header{
+  display:none;
+}
+
+/* SET minh-eigth to have footer down the screen*/
+.rates-page-heigth{
+  min-height: calc(100vh - 184px);
+}
+.entry-content{
+  background: radial-gradient(#546E7C , #181B1C);
+}
+h2{
+  font-family: 'Karantina';
+  letter-spacing: 0.2rem;
 }
