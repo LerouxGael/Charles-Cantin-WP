@@ -15440,3 +15440,7 @@ h2{
 .active{
   background-color: #F5F5F5;
 }
+.current_page_item{
+  text-decoration: underline;
+  text-underline-offset: 0.7em;
+}
