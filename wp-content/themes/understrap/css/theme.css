@@ -638,8 +638,8 @@ progress {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
   width: 100%;
-  padding-right: calc(var(--bs-gutter-x) * 0.5);
-  padding-left: calc(var(--bs-gutter-x) * 0.5);
+/*   padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5); */
   margin-right: auto;
   margin-left: auto;
 }
@@ -15431,4 +15431,12 @@ figure.woocommerce-product-gallery__wrapper {
 h2{
   font-family: 'Karantina';
   letter-spacing: 0.2rem;
+}
+
+.nav-tabs > a{
+  font-family:''Tahoma', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif';
+  color: #F5F5F5;
+}
+.active{
+  background-color: #F5F5F5;
 }
