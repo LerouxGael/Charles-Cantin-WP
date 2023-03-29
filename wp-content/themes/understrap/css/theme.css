@@ -15444,3 +15444,12 @@ h2{
   text-decoration: underline;
   text-underline-offset: 0.7em;
 }
+.menu-item{
+  z-index: 100;
+}
+.bwg-item0{
+  z-index: 80;
+}
+.gutena-forms-field{
+  color: black !important;
+}
