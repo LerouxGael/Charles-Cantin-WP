@@ -15425,6 +15425,9 @@ figure.woocommerce-product-gallery__wrapper {
 .rates-page-heigth{
   min-height: calc(100vh - 184px);
 }
+.home-page-heigth{
+  min-height: calc(100vh - 58px);
+}
 .entry-content{
   background: radial-gradient(#546E7C , #181B1C);
 }
@@ -15452,4 +15455,14 @@ h2{
 }
 .gutena-forms-field{
   color: black !important;
+}
+.white-label label{
+  color: #F5F5F5;
+}
+.pbSubmit{
+  background: #8eaabc !important; 
+  color: #F5F5F5 !important;
+  border-radius: 30px;
+  padding : 15px 20px !important;
+  border-width: 0;
 }
